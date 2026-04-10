@@ -2,7 +2,7 @@
 
 > Personal portfolio website for **Pushpit Shukla**, a Software Engineer specializing in backend systems, AI-driven automation, and full-stack development.
 
-🔗 **Live:** [pushpit.dev](https://pushpit-portfolio.vercel.app) &nbsp;|&nbsp; 📧 [pushpitshukla28@gmail.com](mailto:pushpitshukla28@gmail.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/pushpit-shukla-565544204/) &nbsp;|&nbsp; 🐙 [GitHub](https://github.com/pushpitshukla28)
+🔗 **Live:** [portfolio-brown-two-by00igfzze.vercel.app](https://portfolio-brown-two-by00igfzze.vercel.app) &nbsp;|&nbsp; 📧 [pushpitshukla28@gmail.com](mailto:pushpitshukla28@gmail.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/pushpit-shukla-565544204/) &nbsp;|&nbsp; 🐙 [GitHub](https://github.com/pushpitshukla28)
 
 ---
 
